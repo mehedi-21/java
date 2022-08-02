@@ -13,5 +13,5 @@ Example : Here,Shopkeeper class inherits the Shop class.So,there is Is-a relatio
 
 ### Some important keyword
 
-final : The final keyword is a non-access modifier used for classes, attributes and methods, which makes them non-changeable (impossible to inherit or override). The final keyword is useful when you want a variable to always store the same value, like PI (3.14159...). The final keyword is called a "modifier".
+final : The final keyword is a non-access modifier used for classes, attributes and methods, which makes them non-changeable (impossible to inherit or override). The final keyword is useful when you want a variable to always store the same value, like PI (3.14159...). The final keyword is called a "modifier".<br>
 this : The this keyword refers to the current object in a method or constructor. The most common use of the this keyword is to eliminate the confusion between class attributes and parameters with the same name because a class attribute is shadowed by a method or constructor parameter.
